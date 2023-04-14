@@ -30,7 +30,7 @@ Currently, only Gradle is supported out of the box. You add it to you project li
 
 ```kotlin
 plugins {
-    id("com.dependencyshield.gradle") version "0.0.5"
+    id("com.dependencyshield.gradle") version "0.0.6"
 }
 ...
 dependencyShield {
