@@ -1,7 +1,7 @@
 {
     "originRepo": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "title": "Jekyll Serif",
-    "description": "Serif is a multi page business theme for Jekyll.",
+    "title": "Dependency Shield",
+    "description": "Stay on top of OWASP dependency checks",
     "demoUrl": "https://jekyll-advance.netlify.app",
     "categories": {
       "ssg": ["jekyll"],

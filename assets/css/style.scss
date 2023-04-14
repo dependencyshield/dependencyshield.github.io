@@ -7,7 +7,7 @@ $primary-dark: #146C94;
 $secondary: #19A7CE;
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #fff6f8;
+$white-offset: #f3f3f3;
 $steel: #5c5a5a;
 
 // Links
@@ -39,8 +39,6 @@ $sub-footer-text-color: $white;
 @import "components/type";
 @import "components/page";
 @import "components/header";
-@import "components/footer";
-@import "components/sub-footer";
 @import "components/logo";
 @import "components/main-menu";
 @import "components/main-menu-mobile";
