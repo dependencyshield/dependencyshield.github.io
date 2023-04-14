@@ -1,13 +1,13 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Login"
+    url: "https://app.dependencyshield.com"
     weight: 2
-  - name: "Team"
-    url: "/team/"
-    weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
+#  - name: "Team"
+#    url: "/team/"
+#    weight: 3
+#  - name: "About"
+#    url: "/about/"
+#    weight: 4
+#  - name: "Contact"
+#    url: "/contact/"
+#    weight: 5

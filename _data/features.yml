@@ -1,0 +1,6 @@
+- title: Suppress false positives with a single click
+  description: No more manual work to suppress false positives
+- title: See all dependency check reports in one place
+  description: See the health of all your projects on one page.
+- title: Built on top of the great OWASP Dependency Check
+  description: Vulnerability scan is done by OWASP dependency check, Dependency Shield allows you to manage the results.
