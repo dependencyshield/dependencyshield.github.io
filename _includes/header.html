@@ -1,10 +1,15 @@
 <div class='header'>
   <div class="container">
-    <div class="logo">
+    <div class="row align-baseline">
+    <div class="logo float-left">
       <a href="{{ site.baseurl }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
     </div>
-    <div class="logo-mobile">
+    <div class="logo-mobile float-left">
       <a href="{{ site.baseurl }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
+    </div>
+    <div class="float-left">
+    Dependency Shield
+    </div>
     </div>
     {% include main-menu.html %}
     {% include hamburger.html %}
