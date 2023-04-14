@@ -1,10 +1,11 @@
 main:
+  - name: "Features"
+    url: "/features/"
+    target: "_blank"
+    weight: 2
   - name: "Login"
     url: "https://app.dependencyshield.com"
-    weight: 2
-#  - name: "Team"
-#    url: "/team/"
-#    weight: 3
+    weight: 3
 #  - name: "About"
 #    url: "/about/"
 #    weight: 4

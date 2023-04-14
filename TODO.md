@@ -1,1 +1,4 @@
 - principles
+- Explain reports - colors in the app
+- Manual config + groovy config
+- API key - sensitivity

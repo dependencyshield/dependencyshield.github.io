@@ -1,0 +1,11 @@
+.page-article {
+  .screenshot {
+    width: 720px;
+  }
+  pre, code {
+    background-color: $white-offset;
+  }
+  pre {
+    padding: 1rem;
+  }
+}

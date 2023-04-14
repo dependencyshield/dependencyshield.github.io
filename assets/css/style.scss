@@ -27,10 +27,7 @@ $sub-footer-background-color: darken($primary, 10%);
 $sub-footer-text-color: $white;
 
 // Bootstrap
-@import "bootstrap-variables";
-@import "bootstrap/bootstrap-reboot";
-@import "bootstrap/bootstrap-grid";
-// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+@import 'bootstrap/bootstrap';
 
 // Libraries
 @import "libraries/hamburgers/hamburgers";
@@ -56,8 +53,7 @@ $sub-footer-text-color: $white;
 
 // Pages
 @import "pages/page-home";
-@import "pages/page-teams";
-@import "pages/page-service";
+@import "pages/page-article";
 
 body {
   font-size: 16px;
@@ -68,3 +64,5 @@ body {
     line-height: 1.3;
   }
 }
+
+

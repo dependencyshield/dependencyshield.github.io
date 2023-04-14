@@ -27,6 +27,7 @@ bodyClass: "page-home"
           {% endif %}
           <h2 class="feature-title">{{ feature.title }}</h2>
           <div class="feature-content">{{ feature.description }}</div>
+          <a class="button button-primary mt-2" href="{{ feature.link | relative_url }}">Learn more</a>
         </div>
       </div>
       {% endfor %}
