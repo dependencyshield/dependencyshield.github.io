@@ -8,11 +8,11 @@ description: Features
 
 ## How it works
 Dependency Shield serves as an addition to the [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/). 
-It exposes a suppression file that is consumed by OWASP Dependency check. It exposes an API where you can upload your 
-dependency check reports.
+It exposes a suppression file that is consumed by OWASP Dependency check. Additionally, it exposes an API where you can 
+upload your dependency check reports.
 
 Once the reports are uploaded, you can use Dependency Shield UI to make decisions about the vulnerabilities. If you
-identify a false positive, you can suppress it and the suppression gets automatically propagated to all your projects.
+identify a false positive, you can suppress it and the suppression gets automatically propagated to all connected projects.
 
 ## Reports
 You can see results of your dependency check reports in Dependency Shield and address the projects that need your attention 
