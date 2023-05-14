@@ -3,7 +3,7 @@
   <ul>
     {% for item in mainmenu %}
     <li class="{% if item.url == page.url %}active{% endif %}">
-      <a href="{{ item.url | relative_url }}" target="{{ item.url | _self }}">{{ item.name }}</a>
+      <a href="{{ item.url | relative_url }}" target="{{ item.url | _self }}" class="{{ item.class }}">{{ item.name }}</a>
     </li>
     {% endfor %}
   </ul>

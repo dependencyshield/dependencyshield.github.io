@@ -9,6 +9,7 @@ main:
     url: "https://app.dependencyshield.com"
     weight: 3
     target: "_blank"
+    class: plausible-event-name=MenuLogin
 #  - name: "About"
 #    url: "/about/"
 #    weight: 4
