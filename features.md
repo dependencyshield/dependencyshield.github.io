@@ -40,4 +40,5 @@ dependencyShield {
 }
 ```
 Once the plugin is applied, it will configure OWASP Dependency Check to download the suppression file and upload the report.
+You can see the plugin source code [here](https://github.com/dependencyshield/gradle-plugin).
 
