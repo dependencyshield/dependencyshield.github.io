@@ -10,9 +10,9 @@ main:
     weight: 3
     target: "_blank"
     class: plausible-event-name=MenuLogin
-#  - name: "About"
-#    url: "/about/"
-#    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 4
 #  - name: "Contact"
 #    url: "/contact/"
 #    weight: 5
